@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on freelancer developer<br>👯 I’m looking to collaborate on software testing-related<br>🤝I'm looking for help with web development<br>🌱 I’m currently learning python<br>💬 Ask me about computer systems<br>
-
+![213842977-7fc843a1-9d99-4162-853e-53a088d9683f](https://github.com/Evergardenx/Evergardenx/assets/105604658/39a3e98e-6065-4c9a-9855-7d9aaf37d8b7)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/evergarden_x) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ulises.cenoz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/evergarden_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ulises-cenoz-zacarias-5a1759293) 
